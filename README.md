@@ -1,6 +1,6 @@
 # Calculadora em Python
 
-Uma aplicação bem simples desenvolvida para revisar conceitos de Python e Programação Orientada a Objetos. Possui as funcionalidades:
+Uma aplicação bem simples desenvolvida para revisar conceitos de Python, Programação Orientada a Objetos (POO) e boas práticas. Possui as funcionalidades:
 - Soma
 - Subtração
 - Multiplicação
@@ -8,7 +8,7 @@ Uma aplicação bem simples desenvolvida para revisar conceitos de Python e Prog
 - Potência
 - Raiz
 
-Versão para somente dois números e um operador por vez, sem tratamento de erros nesta primeira versão. 
+Versão para somente dois números e um operador por vez.
 
 ## Conceitos Utilizados
 - Classes
